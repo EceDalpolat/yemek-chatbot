@@ -1,0 +1,14 @@
+milvus:
+  host: "localhost"
+  port: 19530
+  collection_name: "recipes"
+  
+collection_schema:
+  dimension: 384
+  metric_type: "L2"
+  index_type: "IVF_FLAT"
+  nlist: 128
+  
+search_params:
+  nprobe: 10
+  top_k: 5

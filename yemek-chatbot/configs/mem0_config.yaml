@@ -1,0 +1,10 @@
+mem0:
+  api_key: "${MEM0_API_KEY}"
+  
+memory_settings:
+  retention_days: 365
+  max_memories_per_user: 1000
+  
+personalization:
+  enabled: true
+  weight: 0.3

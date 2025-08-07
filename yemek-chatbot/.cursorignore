@@ -1,0 +1,55 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Dependencies
+node_modules/
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Data files (büyük dosyalar)
+data/recipes/*.json
+data/processed/*.json
+data/embeddings/*.npy
+data/embeddings/*.pkl
+models/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Docker
+docker-compose.override.yml
+.dockerignore
