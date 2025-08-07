@@ -219,4 +219,4 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ### ⭐ Star the project if you find it useful!
 
-Made with ❤️ by Ece Dal Polat
+Made with ❤️ by Ece DalPolat
