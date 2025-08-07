@@ -23,8 +23,8 @@ A multilingual AI chatbot that provides cooking recipes, dietary advice, and cul
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/YemekTarifi.git
-   cd YemekTarifi
+   git clone https://github.com/EceDalpolat/yemek-chatbot.git
+   cd yemek-chatbot
    ```
 
 2. **Create virtual environment**
@@ -152,8 +152,8 @@ python fine_tuning_example.py
 
 1. **Repository'yi klonlayın**
    ```bash
-   git clone https://github.com/yourusername/YemekTarifi.git
-   cd YemekTarifi
+   git clone https://github.com/EceDalpolat/yemek-chatbot.git
+   cd yemek-chatbot
    ```
 
 2. **Virtual environment oluşturun**
@@ -208,16 +208,15 @@ python fine_tuning_example.py
 
 ### 📄 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
+Bu proje MIT lisansı altında lisanslanmıştır.
 
 ### 📞 İletişim
 
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/YemekTarifi/issues)
-- 📖 Wiki: [Project Wiki](https://github.com/yourusername/YemekTarifi/wiki)
+- 🐛 Issues: [GitHub Issues](https://github.com/EceDalpolat/yemek-chatbot/issues)
+- 📖 Wiki: [Project Wiki](https://github.com/EceDalpolat/yemek-chatbot/wiki)
 
 ---
 
 ### ⭐ Star the project if you find it useful!
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Ece Dal Polat
